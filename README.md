@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/24d06952a09a48e19b6bc7c2aa83505a)](https://www.codacy.com/gh/ArinzeJeffrey-droid/simple-data-table/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArinzeJeffrey-droid/simple-data-table&amp;utm_campaign=Badge_Grade)
+
 # Frontend Assessment
 
 Build and deploy a very simple frontend app for paginated data, that does the following
