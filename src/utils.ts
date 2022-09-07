@@ -22,7 +22,7 @@ export const updateTable = (data: TableRowData[], page: string) => {
 };
 
 export const updatePageView = (page: string) => {
-  pageView.innerHTML = `Showing page ${page}`;
+  pageView.innerHTML = `Showing Page ${page}`;
 };
 
 export const disableButton = (
