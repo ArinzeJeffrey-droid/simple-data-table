@@ -1,4 +1,4 @@
-import { Pagination, TableRowData } from "./types";
+import type { Pagination, TableRowData } from "./types";
 
 import { nextButton, prevButton } from "./components.";
 import { fetchData, disableButton, updateTable, enableButton } from "./utils";
